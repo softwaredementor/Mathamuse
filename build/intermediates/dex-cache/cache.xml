@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_b2bc62481cfd4f2d927f9c2f313a062202af72e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_82e5e8d3013ef6a95eaeb1f6cbe41f9bd8df475b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_2de1b533ac61dfd95a6e4f531843e85843193a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_3583aee4e28c499e938f5cb0f3ff659d6d181f8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_527a7be704a4da6f94b1f6ac5b459ef773eb09a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_147936d5d2bd0362c29f65ea63b51723302fb67e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_fbdfc4f5125a5cd5c49b1d0ced4cf530980edb39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_008405459f5f85442e04a2fdc2628c6c86e3194e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_58e0ca565519338b926718cb76a70d7c35207857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_64c2b2bc0f7eddee1ff50f6608d761018d1f2b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_a36b916f8a850089f4c4732404c005bf516f03e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_da864781964abeb9f25aea8464881f68b6f6aada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99c5b4cc3a0cc9c862e40be293eef25f8ea7903f">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13b246b5e87db3d22a2caf4391d385f2389906d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_5bc90aa3b398a34282b8ad0b51d0acb25d98f0be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_c74da6cd677c9b6f7861a5d7939fd64288555b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_47daa854b417cf832459dd481d81f202d1133e67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="487a533e8c5d144ba917c6d2064a2d72cb78290c">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_411efdbca5277c81544434b70fb2b1e4b12522d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_95606d984697fe363dd344fa3b9c07902da2e733/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/srikanthmannepalle/AndroidStudioProjects/Mathamuse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_857f23d487ef84c67aa4c58b90ab82ba6ced64d7/classes.dex" />
+    </item>
+
+</items>
