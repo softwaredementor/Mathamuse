@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">38441353181</string>
+    <string name="package_name">com.appfission.mathamuse</string>
+    <string name="achievement_noob">CgkI3f-hmo8BEAIQAA</string>
+    <string name="achievement_rookie">CgkI3f-hmo8BEAIQCw</string>
+    <string name="achievement_semi_pro">CgkI3f-hmo8BEAIQAQ</string>
+    <string name="achievement_pro">CgkI3f-hmo8BEAIQAg</string>
+    <string name="achievement_juggler">CgkI3f-hmo8BEAIQAw</string>
+    <string name="achievement_rebel">CgkI3f-hmo8BEAIQBA</string>
+    <string name="achievement_talented">CgkI3f-hmo8BEAIQBQ</string>
+    <string name="achievement_veteren">CgkI3f-hmo8BEAIQBg</string>
+    <string name="achievement_master">CgkI3f-hmo8BEAIQBw</string>
+    <string name="achievement_magician">CgkI3f-hmo8BEAIQCA</string>
+    <string name="achievement_expert">CgkI3f-hmo8BEAIQDA</string>
+    <string name="achievement_legend">CgkI3f-hmo8BEAIQDQ</string>
+    <string name="achievement_unstoppable">CgkI3f-hmo8BEAIQDg</string>
+    <string name="achievement_godlike">CgkI3f-hmo8BEAIQDw</string>
+    <string name="leaderboard_easy_level">CgkI3f-hmo8BEAIQCQ</string>
+    <string name="leaderboard_medium_level">CgkI3f-hmo8BEAIQEA</string>
+    <string name="leaderboard_hard_level">CgkI3f-hmo8BEAIQEQ</string>
+    <string name="leaderboard_overall">CgkI3f-hmo8BEAIQEg</string>
+    <string name="leaderboard_star_achievers">CgkI3f-hmo8BEAIQEw</string>
+</resources>

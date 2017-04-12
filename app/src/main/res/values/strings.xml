@@ -1,4 +1,103 @@
 <resources>
     <string name="app_name">Mathamuse</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="appId">ca-app-pub-6578785584309010~7519901889</string>
+    <string name="testAd">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--<string name="banner_ad_unit_id_1">ca-app-pub-6578785584309010/2950101485</string> //settings-->
+    <!--<string name="banner_ad_unit_id_2">ca-app-pub-6578785584309010/1804661881</string> //play-->
+    <!--<string name="banner_ad_unit_id_3">ca-app-pub-6578785584309010/3281395088</string> //game info-->
+    <!--<string name="banner_ad_unit_id_4">ca-app-pub-6578785584309010/4758128287</string> //input-->
+    <!--<string name="banner_ad_unit_id_5">ca-app-pub-6578785584309010/7711594684</string> //scores-->
+    <!--<string name="banner_ad_unit_id_6">ca-app-pub-6578785584309010/2539045086</string> //levels-->
+    <string name="interstitial_ad_unit_1">ca-app-pub-6578785584309010/9048727088</string>
+    <string name="interstitial_ad_unit_2">ca-app-pub-6578785584309010/1525460283</string>
+
+    <string-array name="difficulty_arrays">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="duration">
+        <item>1min</item>
+        <item>2min</item>
+        <item>5min</item>
+        <item>10min</item>
+    </string-array>
+    <string name="action_share">Share</string>
+    <string name="arithmeticGameInfo"><b>1.</b> Type in the calculated answer and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="logarithmGameInfo"><b>1.</b> Type in the calculated answer and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n
+        <b>4.</b> You can double your points by playing this category.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="fractionsGameInfo"><b>1.</b> Type in the calculated answer, rounded to nearest 2 decimal places, and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n
+        <b>4.</b> You can triple your points by playing this category.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="percentagesGameInfo"><b>1.</b> Type in the calculated answer, rounded to nearest 2 decimal places, and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n
+        <b>4.</b> You can earn triple your points by playing this category.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="equationsGameInfo"><b>1.</b> Type in the calculated answer for <b>"X"</b> and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n
+        <b>4.</b> You can double your points by playing this category.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="exponentsGameInfo"><b>1.</b> Type in the calculated answer and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="trigonometryGameInfo"><b>1.</b> Type in the approximated answer, rounded to nearest 2 decimal places, and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n
+        <b>4.</b> You can triple your points by playing this category.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="statisticsGameInfo"><b>1.</b> Type in the calculated answer and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n
+        <b>4.</b> You can double your points by playing this category.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="trueFalseGameInfo"><b>1.</b> Evaluate the question and just press <b>True or False</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press either <b>True or False</b> button.\n
+        <b>3.</b> More than 30% incorrect answers will reset your earned score and stars to 0!\n
+        <b>4.</b> Amplify your score by answering a large streak of correct answers.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+
+    <string name="multiplicationTablesGameInfo"><b>1.</b> Type in the calculated answer and press <b>Enter</b> button to proceed for the next question. \n
+        <b>2.</b> If you choose to skip ahead, just press <b>Enter</b> button.\n
+        <b>3.</b> Amplify your score by answering a large streak of correct answers.\n\n
+        <b>Click Ready to begin the Game. Have fun !</b>
+    </string>
+    <string name="sign_in_why">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="play_not_available">Signing in!</string>
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view leaderboards.</string>
+    <string name="signin_other_error">There was an issue with sign in.  You can still play!</string>
+    <string name="your_progress_will_be_uploaded">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="signed_out_greeting">Hello, user!(not signed in)</string>
+    <string name="achievement">Achievement</string>
 </resources>

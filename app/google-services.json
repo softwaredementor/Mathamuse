@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "26381127232332",
-    "firebase_url": "https://mathamuse-52368.firebaseio.com",
+    "project_number": "263816723422",
+    "firebase_url": "https://mathamuse-57768.firebaseio.com",
     "project_id": "mathamuse-57768",
     "storage_bucket": "mathamuse-57768.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:2632343723422:android:4383fd6c20f3859f",
+        "mobilesdk_app_id": "1:263816723422:android:4383fd6c20f3859f",
         "android_client_info": {
           "package_name": "com.appfission.mathamuse"
         }
       },
       "oauth_client": [
         {
-          "client_id": "2638234563422-mh8knmsj8es2sd4vgilmuojrah743fo6f5k.apps.googleusercontent.com",
+          "client_id": "263816723422-mh8knmsj8eskavgilmuojrah7cio6f5k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBDg6wusdsfMcpI795ZXdf4u__Sa5stTHUj0g"
+          "current_key": "AIzaSyBDg6wueOMcpI795ZX2tu_nSa5stTHUj0g"
         }
       ],
       "services": {

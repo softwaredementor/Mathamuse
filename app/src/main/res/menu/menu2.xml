@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.appfission.mathamuse.ScoreActivity" >
+
+    <item
+        android:id="@+id/action_share_score"
+        android:showAsAction = "always"
+        android:title="Share Screenshot"
+        android:actionProviderClass=
+            "android.widget.ShareActionProvider"
+        tools:ignore="AppCompatResource" />
+</menu>

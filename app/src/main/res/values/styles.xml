@@ -7,5 +7,31 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
+    <style name="MyTrueButton">
+        <item name="android:background">@drawable/calc_true_button</item>
+    </style>
+    <style name="MyFalseButton">
+        <item name="android:background">@drawable/calc_false_button</item>
+    </style>
+    <style name="MyCoolButton">
+        <item name="android:background">@drawable/cool_button_background</item>
+    </style>
+    <style name="MyDelButton">
+        <item name="android:background">@drawable/calc_del_button</item>
+    </style>
+    <style name="MyClearButton">
+        <item name="android:background">@drawable/calc_clear_button</item>
+    </style>
+    <style name="MyEnterButton">
+        <item name="android:background">@drawable/calc_enter_button</item>
+    </style>
+    <style name="MyGenericButton">
+        <item name="android:background">@drawable/calc_generic_button</item>
+    </style>
+    <style name="MySummaryButton">
+        <item name="android:background">@drawable/summary_button</item>
+    </style>
+    <style name="MenuPlayButton">
+        <item name="android:background">@drawable/playbutton</item>
+    </style>
 </resources>
